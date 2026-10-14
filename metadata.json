@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "An AI-powered decision consultant that helps you weigh options using pros/cons list, SWOT analysis, comparison table, and weighted scorecards to deliver the ultimate tiebreaker verdict.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
